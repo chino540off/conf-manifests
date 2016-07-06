@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="chino540off"			fetch="git@github.com/chino540off"/>
+	<remote name="chino540off"			fetch="ssh://git@github.com:chino540off"/>
 	<remote name="cdump"				fetch="https://github.com/cdump/awesome-shifty"/>
 
 	<default revision="master"			remote="chino540off" sync-c="true" sync-j="4"/>
