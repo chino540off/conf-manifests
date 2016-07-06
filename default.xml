@@ -5,7 +5,10 @@
 
 	<default revision="master"			remote="chino540off" sync-c="true" sync-j="4"/>
 
+	<project path="manifests"			name="conf-manifests"/>
 	<project path="zsh"					name="conf-zsh"/>
-
+	<project path="vim"					name="conf-vim"/>
+	<project path="awesome"				name="conf-awesome"/>
+	<project path="dotfiles"			name="conf-dotfiles"/>
 	<project path="awesome/shifty"		name="awesome-shifty" remote="cdump"/>
 </manifest>
