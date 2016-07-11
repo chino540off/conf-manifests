@@ -6,6 +6,8 @@
   <default revision="master"			remote="gh_ssh"/>
 
   <project path="manifests"	      		name="chino540off/conf-manifests"	  remote="gh_ssh"/>
+  <project path="builder"	      		name="chino540off/conf-builder"		  remote="gh_ssh"/>
+
   <project path="zsh"		      		name="chino540off/conf-zsh"		  remote="gh_ssh"/>
   <project path="dotfiles"	      		name="chino540off/conf-dotfiles"	  remote="gh_ssh"/>
 
