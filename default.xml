@@ -15,6 +15,7 @@
   <project path="vim/vim/bundle/Vundle.vim"	name="VundleVim/Vundle.vim"		  remote="gh_https"/>
 
   <project path="awesome"			name="chino540off/conf-awesome"		  remote="gh_ssh"/>
+  <project path="awesome/themes"		name="chino540off/conf-awesome-themes"	  remote="gh_ssh"/>
   <project path="awesome/shifty"      		name="cdump/awesome-shifty"		  remote="gh_https"/>
   <project path="awesome/lain"      		name="copycat-killer/lain"    		  remote="gh_https"/>
 </manifest>
