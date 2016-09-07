@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="gh_ssh"				fetch="ssh://git@github.com/"/>
-  <remote name="gh_https"			fetch="https://github.com/"/>
+  <remote   name="gh_ssh"                     fetch="ssh://git@github.com/"/>
+  <remote   name="gh_https"                   fetch="https://github.com/"/>
 
-  <default revision="master"			remote="gh_ssh"/>
+  <default  revision="master"                 remote="gh_ssh"/>
 
-  <project path="manifests"	      		name="chino540off/conf-manifests"	  remote="gh_ssh"/>
-  <project path="builder"	      		name="chino540off/conf-builder"		  remote="gh_ssh"/>
+  <project  path="manifests"                  name="chino540off/conf-manifests"       remote="gh_ssh"/>
+  <project  path="builder"                    name="chino540off/conf-builder"         remote="gh_ssh"/>
 
-  <project path="zsh"		      		name="chino540off/conf-zsh"		  remote="gh_ssh"/>
-  <project path="dotfiles"	      		name="chino540off/conf-dotfiles"	  remote="gh_ssh"/>
+  <project  path="zsh"                        name="chino540off/conf-zsh"             remote="gh_ssh"/>
+  <project  path="dotfiles"                   name="chino540off/conf-dotfiles"        remote="gh_ssh"/>
 
-  <project path="vim"		      		name="chino540off/conf-vim"		  remote="gh_ssh"/>
-  <project path="vim/vim/bundle/Vundle.vim"	name="VundleVim/Vundle.vim"		  remote="gh_https"/>
+  <project  path="vim"                        name="chino540off/conf-vim"             remote="gh_ssh"/>
+  <project  path="vim/vim/bundle/Vundle.vim"  name="VundleVim/Vundle.vim"             remote="gh_https"/>
 
-  <project path="awesome"			name="chino540off/conf-awesome"		  remote="gh_ssh"/>
-  <project path="awesome/themes"		name="chino540off/conf-awesome-themes"	  remote="gh_ssh"/>
-  <project path="awesome/shifty"      		name="cdump/awesome-shifty"		  remote="gh_https"/>
-  <project path="awesome/lain"      		name="copycat-killer/lain"    		  remote="gh_https"/>
-  <project path="awesome/tyrannical"      	name="Elv13/tyrannical"			  remote="gh_https"/>
+  <project  path="awesome"                    name="chino540off/conf-awesome"         remote="gh_ssh"/>
+  <project  path="awesome/themes"             name="chino540off/conf-awesome-themes"  remote="gh_ssh"/>
+  <project  path="awesome/shifty"             name="cdump/awesome-shifty"             remote="gh_https"/>
+  <project  path="awesome/lain"               name="copycat-killer/lain"              remote="gh_https"/>
+  <project  path="awesome/tyrannical"         name="Elv13/tyrannical"                 remote="gh_https"/>
 </manifest>
