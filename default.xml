@@ -20,4 +20,5 @@
   <project  path="awesome/themes"             name="chino540off/conf-awesome-themes"  remote="gh_ssh"/>
   <project  path="awesome/lain"               name="copycat-killer/lain"              remote="gh_https"/>
   <project  path="awesome/tyrannical"         name="Elv13/tyrannical"                 remote="gh_https"/>
+  <project  path="awesome/radical"            name="Elv13/radical"                    remote="gh_https"/>
 </manifest>
